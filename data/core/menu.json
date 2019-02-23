@@ -1,0 +1,341 @@
+{
+  "code": 0,
+  "message": "操作成功",
+  "data": [
+    {
+      "id": 310,
+      "name": "打包作业",
+      "rootLevel": 1,
+      "icon": "comment",
+      "path": "/",
+      "parentId": "",
+      "sort": 1,
+      "children": [
+        {
+          "id": 312,
+          "name": "打包",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-dabaoji",
+          "color": "orange darken-2",
+          "path": "/app/myPackingMachinerys",
+          "parentId": "10",
+          "sort": 2
+        },
+        {
+          "id": 311,
+          "name": "回收",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-huishouji",
+          "color": "orange darken-2",
+          "path": "/app/myPackingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        },
+        {
+          "id": 313,
+          "name": "集草",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-jicaoche",
+          "color": "orange darken-2",
+          "path": "/app/myPackingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        },
+        {
+          "id": 317,
+          "name": "灭茬",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-miechaji",
+          "color": "orange darken-2",
+          "path": "/app/myPackingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        },
+        {
+          "id": 338,
+          "name": "搂草",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-loucaoji",
+          "color": "orange darken-2",
+          "path": "/app/myPackingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        },
+        {
+          "id": 318,
+          "name": "作业审核",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-shenhe",
+          "color": "teal darken-2",
+          "path": "/app/packagingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "秸秆运输",
+      "rootLevel": 1,
+      "icon": "comment",
+      "path": "/",
+      "parentId": "",
+      "sort": 1,
+      "children": [
+        {
+          "id": 212,
+          "name": "离田出发",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-chufa",
+          "color": "lime darken-3",
+          "path": "/",
+          "parentId": "10",
+          "sort": 2
+        },
+        {
+          "id": 211,
+          "name": "入厂登记",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-daoda",
+          "color": "lime darken-3",
+          "path": "/app/packagingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "设备管理",
+      "rootLevel": 1,
+      "icon": "comment",
+      "path": "/",
+      "parentId": "",
+      "sort": 1,
+      "children": [
+        {
+          "id": 12,
+          "name": "运输车辆",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-yunshuche",
+          "color": "teal darken-2",
+          "path": "/",
+          "parentId": "10",
+          "sort": 2
+        },
+        {
+          "id": 11,
+          "name": "打包机械",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-dabaojixie",
+          "color": "teal darken-2",
+          "path": "/app/packagingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "name": "统计报表",
+      "rootLevel": 1,
+      "icon": "comment",
+      "path": "/",
+      "parentId": "",
+      "sort": 1,
+      "children": [
+        {
+          "id": 412,
+          "name": "作业记录",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-baobiao",
+          "color": "teal darken-2",
+          "path": "/",
+          "parentId": "10",
+          "sort": 2
+        },
+        {
+          "id": 411,
+          "name": "作业记录详细表",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-baobiao",
+          "color": "teal darken-2",
+          "path": "/app/packagingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        },
+        {
+          "id": 413,
+          "name": "各种报表",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-report",
+          "path": "/app/packagingMachinerys",
+          "parentId": "10",
+          "sort": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "人员管理",
+      "rootLevel": 1,
+      "icon": "wb_cloudy",
+      "path": "/",
+      "parentId": "",
+      "sort": 2,
+      "children": [
+        {
+          "id": 14,
+          "name": "经纪人",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-jjr",
+          "color": "orange darken-2",
+          "path": "/",
+          "parentId": "13",
+          "sort": 1
+        },
+        {
+          "id": 15,
+          "name": "运输司机",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-siji",
+          "color": "lime darken-3",
+          "path": "/",
+          "parentId": "13",
+          "sort": 2
+        },
+        {
+          "id": 16,
+          "name": "设备操作员",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-shebeiczy",
+          "color": "orange darken-2",
+          "path": "/",
+          "parentId": "13",
+          "sort": 3
+        },
+        {
+          "id": 17,
+          "name": "料场业务员",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-liaochangywy",
+          "color": "lime darken-3",
+          "path": "/",
+          "parentId": "13",
+          "sort": 4
+        },
+        {
+          "id": 18,
+          "name": "经纪人管理员",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-jjrmanager",
+          "color": "teal darken-2",
+          "path": "/",
+          "parentId": "13",
+          "sort": 5
+        },
+        {
+          "id": 119,
+          "name": "公司管理者",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-leader",
+          "path": "/",
+          "parentId": "13",
+          "sort": 1
+        },
+        {
+          "id": 129,
+          "name": "系统管理员",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-admin",
+          "color": "green darken-2",
+          "path": "/",
+          "parentId": "13",
+          "sort": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "系统管理",
+      "rootLevel": 1,
+      "icon": "wb_sunny",
+      "path": "/",
+      "parentId": "",
+      "sort": 3,
+      "children": [
+        {
+          "id": 20,
+          "name": "用户管理",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-user",
+          "color": "green darken-2",
+          "path": "/app/adminUsers",
+          "parentId": "19",
+          "sort": 1
+        },
+        {
+          "id": 21,
+          "name": "角色管理",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-role",
+          "color": "green darken-2",
+          "path": "/app/adminRoles",
+          "parentId": "19",
+          "sort": 2
+        },
+        {
+          "id": 22,
+          "name": "作业区域",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-address",
+          "color": "green darken-2",
+          "path": "/app/adminMenus",
+          "parentId": "19",
+          "sort": 3
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "我的",
+      "rootLevel": 1,
+      "icon": "wb_sunny",
+      "path": "/",
+      "parentId": "",
+      "sort": 3,
+      "children": [
+        {
+          "id": 20,
+          "name": "我的信息",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-user",
+          "color": "green darken-2",
+          "path": "/app/adminUsers",
+          "parentId": "19",
+          "sort": 1
+        },
+        {
+          "id": 21,
+          "name": "设置",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-role",
+          "color": "green darken-2",
+          "path": "/app/adminRoles",
+          "parentId": "19",
+          "sort": 2
+        },
+        {
+          "id": 22,
+          "name": "退出登录",
+          "rootLevel": 0,
+          "icon": "iconfont fcm-address",
+          "color": "green darken-2",
+          "path": "/app/adminMenus",
+          "parentId": "19",
+          "sort": 3
+        }
+      ]
+    }
+  ]
+}
