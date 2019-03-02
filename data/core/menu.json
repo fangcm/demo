@@ -17,11 +17,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-dabaoji",
           "color": "orange--text text--darken-2",
-<<<<<<< HEAD
           "path": "/packing/submitPackingData",
-=======
-          "path": "/app/myPackingDataForm",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 2
         },
@@ -31,11 +27,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-huishouji",
           "color": "orange--text text--darken-2",
-<<<<<<< HEAD
           "path": "/packing/submitPackingData",
-=======
-          "path": "/app/myPackingDataForm",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         },
@@ -45,11 +37,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-jicaoche",
           "color": "orange--text text--darken-2",
-<<<<<<< HEAD
           "path": "/packing/submitPackingData",
-=======
-          "path": "/app/myPackingDataForm",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         },
@@ -59,11 +47,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-miechaji",
           "color": "orange--text text--darken-2",
-<<<<<<< HEAD
           "path": "/packing/submitPackingData",
-=======
-          "path": "/app/myPackingDataForm",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         },
@@ -73,11 +57,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-loucaoji",
           "color": "orange--text text--darken-2",
-<<<<<<< HEAD
           "path": "/packing/submitPackingData",
-=======
-          "path": "/app/myPackingDataForm",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         },
@@ -87,11 +67,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-baobiao",
           "color": "teal--text text--darken-2",
-<<<<<<< HEAD
           "path": "/packing/myPackingData",
-=======
-          "path": "/app/myPackingDataList",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         },
@@ -101,11 +77,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-shenhe",
           "color": "teal--text text--darken-2",
-<<<<<<< HEAD
           "path": "/packing/auditPackingData",
-=======
-          "path": "/app/auditPackingDataList",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         }
@@ -126,11 +98,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-chufa",
           "color": "lime--text text--darken-3",
-<<<<<<< HEAD
           "path": "/transport/submitTruckDepartData",
-=======
-          "path": "/",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 2
         },
@@ -140,11 +108,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-daoda",
           "color": "lime--text text--darken-3",
-<<<<<<< HEAD
           "path": "/transport/submitTruckEntryRegData",
-=======
-          "path": "/app/packagingMachinerys",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         },
@@ -154,11 +118,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-baobiao",
           "color": "lime--text text--darken-3",
-<<<<<<< HEAD
           "path": "/transport/myTransportRecord",
-=======
-          "path": "/app/packagingMachinerys",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         }
@@ -174,38 +134,22 @@
       "sort": 1,
       "children": [
         {
-<<<<<<< HEAD
           "id": 1002,
-=======
-          "id": 12,
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "name": "运输车辆",
           "rootLevel": 0,
           "icon": "iconfont fcm-yunshuche",
           "color": "teal--text text--darken-2",
-<<<<<<< HEAD
           "path": "/machinery/packagingMachinery",
-=======
-          "path": "/",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 2
         },
         {
-<<<<<<< HEAD
           "id": 1001,
-=======
-          "id": 11,
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "name": "打包机械",
           "rootLevel": 0,
           "icon": "iconfont fcm-dabaojixie",
           "color": "teal--text text--darken-2",
-<<<<<<< HEAD
           "path": "/machinery/packagingMachinery",
-=======
-          "path": "/app/packagingMachinerys",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         },
@@ -215,11 +159,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-yunshuche",
           "color": "teal--text text--darken-2",
-<<<<<<< HEAD
           "path": "/machinery/myMachinery",
-=======
-          "path": "/",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 2
         },
@@ -229,11 +169,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-dabaojixie",
           "color": "teal--text text--darken-2",
-<<<<<<< HEAD
           "path": "/machinery/myMachinery",
-=======
-          "path": "/app/packagingMachinerys",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "10",
           "sort": 1
         }
@@ -445,11 +381,7 @@
           "rootLevel": 0,
           "icon": "iconfont fcm-address",
           "color": "green--text text--darken-2",
-<<<<<<< HEAD
           "path": "/login",
-=======
-          "path": "/app/adminMenus",
->>>>>>> 713b8dc27c40bd29fb019cffae4e33a103d6982a
           "parentId": "19",
           "sort": 3
         }
